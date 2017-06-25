@@ -1,4 +1,4 @@
-FROM node:7.5
+FROM node:8
 
 ENV NGINX_VERSION 1.10.3-1~jessie
 
